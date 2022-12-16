@@ -22,7 +22,7 @@ Bad-Loan customers are customers that have loan status such as :
 * Does not meet credit policy. Status : Fully Paid
 * Does not meet credit policy. Status : Charged Off
 
-From 466285 data, there are still around 11.6% of borrowers fall into the "bad loan" category. In this project Loan Status will be used as dependent variable.
+From 466285 data, there are still around 11.6% of borrowers fall into the `bad loan` category. In this project Loan Status will be used as dependent variable.
 ![image](https://user-images.githubusercontent.com/113236791/208075337-9a2143eb-dbb0-48b6-828f-b256a926f829.png)
 
 Because there are hundreds of data points to train and it was binary classification, I decided to use a simple algorithm such as logistic regression because the training time of the logistic regression algorithm was far less than most complex algorithms. Evaluation of the model can be seen from picture below:
@@ -35,7 +35,7 @@ Because there are hundreds of data points to train and it was binary classificat
 
 ![image](https://user-images.githubusercontent.com/113236791/208076040-06c929a5-9ad1-4cfc-8bf3-3a1a9bef6e96.png)
 
-Simulation Result : Machine Learning model can reduce the number of bad-loan approval by 9.68%
+Simulation Result : Machine Learning model can reduce the number of `bad-loan` approval by 9.68%
 
 ![image](https://user-images.githubusercontent.com/113236791/208076575-17dc996c-c43a-47b7-8606-7746df4fe764.png)
 
